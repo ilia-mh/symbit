@@ -1,4 +1,7 @@
 {
+  "homepage": "https://github.com/Amir-Mohseni/symbit",
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
   "name": "symbit",
   "version": "0.1.0",
   "private": true,
@@ -25,5 +28,8 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  }
 }
