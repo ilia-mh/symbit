@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Amir-Mohseni/symbit/static/js/main.91f360f3.chunk.js",
+    "main.js.map": "/Amir-Mohseni/symbit/static/js/main.91f360f3.chunk.js.map",
+    "runtime-main.js": "/Amir-Mohseni/symbit/static/js/runtime-main.856fe6dd.js",
+    "runtime-main.js.map": "/Amir-Mohseni/symbit/static/js/runtime-main.856fe6dd.js.map",
+    "static/js/2.52abbe46.chunk.js": "/Amir-Mohseni/symbit/static/js/2.52abbe46.chunk.js",
+    "static/js/2.52abbe46.chunk.js.map": "/Amir-Mohseni/symbit/static/js/2.52abbe46.chunk.js.map",
+    "index.html": "/Amir-Mohseni/symbit/index.html",
+    "static/js/2.52abbe46.chunk.js.LICENSE.txt": "/Amir-Mohseni/symbit/static/js/2.52abbe46.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.856fe6dd.js",
+    "static/js/2.52abbe46.chunk.js",
+    "static/js/main.91f360f3.chunk.js"
+  ]
+}
