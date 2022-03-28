@@ -2,7 +2,7 @@ This project was built with React.
 
 ## Live Demo Site
 
-View a demo of app in : https://amir-mohseni.github.io/symbit/
+View a demo of app in : https://ilia-mh.github.io/symbit/
 
 ## Available Scripts
 
